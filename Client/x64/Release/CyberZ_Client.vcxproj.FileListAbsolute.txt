@@ -1,0 +1,4 @@
+C:\Users\jinsu\Desktop\졸작\personal project\21~23주차\Client_23\x64\Release\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\21~23주차\Client_23_2\x64\Release\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\26주차\Client\x64\Release\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\x64\Release\CyberZ_Client.exe

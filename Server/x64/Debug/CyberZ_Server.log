@@ -1,0 +1,18 @@
+﻿  모듈 종속성의 소스를 검사하는 중...
+  main.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(18,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(27,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  NPC.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(18,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(27,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Server.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(18,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(27,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Object.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(18,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(27,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Session.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(18,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(27,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  코드를 생성하고 있습니다...
+  CyberZ_Server.vcxproj -> C:\Users\jinsu\Desktop\졸작\CyberZ\Server\x64\Debug\CyberZ_Server.exe

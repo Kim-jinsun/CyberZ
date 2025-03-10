@@ -1,0 +1,12 @@
+﻿  Shader.cpp
+C:\Users\jinsu\Desktop\대학교\졸작\CyberZ\Protocol.h(67,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\대학교\졸작\CyberZ\Protocol.h(68,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\대학교\졸작\CyberZ\Protocol.h(69,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\대학교\졸작\CyberZ\Protocol.h(93,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\대학교\졸작\CyberZ\Protocol.h(94,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  코드를 생성하고 있습니다.
+  3 of 1567 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  CyberZ_Client.vcxproj -> C:\Users\jinsu\Desktop\대학교\졸작\CyberZ\Client\x64\Release\CyberZ_Client.exe

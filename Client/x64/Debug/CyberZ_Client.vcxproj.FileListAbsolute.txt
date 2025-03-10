@@ -1,0 +1,13 @@
+C:\Users\jinsu\Desktop\졸작\personal project\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\Client_정리본\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\TEMP\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\model apply\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\5-6주차(collision)\Client2\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\7-8주차(Collision&Scene)\Client(8주차)\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\9주차\Client(9주차)\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\15주차\2\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\실험장\실험체3\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\실험장\실험체4\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\실험장\실험체5\Client\x64\Debug\CyberZ_Client.exe
+C:\Users\jinsu\Desktop\졸작\personal project\21~23주차\Client_23\x64\Debug\CyberZ_Client.exe

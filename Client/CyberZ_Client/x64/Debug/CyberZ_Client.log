@@ -1,0 +1,219 @@
+﻿  Animation.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Button.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Camera.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Camera.cpp(273,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CyberZ_Client.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  CyborgPlayer.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\CyborgPlayer.cpp(250,34): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\CyborgPlayer.cpp(250,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  DDSTextureLoader12.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Frustum.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  GUI.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\GUI.cpp(559,14): warning C4101: 'progressFrame' :참조되지 않은 지역 변수입니다.
+  GameFramework.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  LoadingScene.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\LoadingScene.cpp(79,3): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\LoadingScene.cpp(86,3): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+  Machine.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Mesh.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Mission.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Network.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Object.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Object.cpp(412,36): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Object.cpp(413,36): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Object.cpp(1287,75): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Object.cpp(1287,133): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Object.cpp(1526,75): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Object.cpp(1526,133): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PlayScene.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\PlayScene.cpp(296,49): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\PlayScene.cpp(346,70): warning C4244: '인수': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\PlayScene.cpp(961,49): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Player.cpp(268,72): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Player.cpp(268,129): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PrepareScene.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\PrepareScene.cpp(58,36): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  ProgressBar.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Scene.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Scene.cpp(591,3): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Scene.cpp(596,3): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\Scene.cpp(923,69): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Shader.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  StartScene.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(119,69): warning C4244: '인수': 'WPARAM'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(119,69): warning C4244:         with
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(119,69): warning C4244:         [
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(119,69): warning C4244:             _Elem=wchar_t
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(119,69): warning C4244:         ]
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(120,68): warning C4244: '인수': 'WPARAM'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(120,68): warning C4244:         with
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(120,68): warning C4244:         [
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(120,68): warning C4244:             _Elem=wchar_t
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(120,68): warning C4244:         ]
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(124,56): warning C4244: '인수': 'WPARAM'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(124,56): warning C4244:         with
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(124,56): warning C4244:         [
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(124,56): warning C4244:             _Elem=wchar_t
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(124,56): warning C4244:         ]
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(156,69): warning C4244: '인수': 'WPARAM'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(156,69): warning C4244:         with
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(156,69): warning C4244:         [
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(156,69): warning C4244:             _Elem=wchar_t
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(156,69): warning C4244:         ]
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(157,68): warning C4244: '인수': 'WPARAM'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(157,68): warning C4244:         with
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(157,68): warning C4244:         [
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(157,68): warning C4244:             _Elem=wchar_t
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(157,68): warning C4244:         ]
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(161,56): warning C4244: '인수': 'WPARAM'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(161,56): warning C4244:         with
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(161,56): warning C4244:         [
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(161,56): warning C4244:             _Elem=wchar_t
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(161,56): warning C4244:         ]
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(134,4): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Client\StartScene.cpp(220,3): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+  TagButton.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  TextInput.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Timer.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  WICTextureLoader12.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  stdafx.cpp
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(66,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(67,28): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(68,32): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(91,26): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\jinsu\Desktop\졸작\CyberZ\Protocol.h(92,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  코드를 생성하고 있습니다...
+  CyberZ_Client.vcxproj -> C:\Users\jinsu\Desktop\졸작\CyberZ\Client\x64\Debug\CyberZ_Client.exe

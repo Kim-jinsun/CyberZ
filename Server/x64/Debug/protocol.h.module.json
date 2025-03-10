@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Protocol.h.obj",
+            "outputs": [
+                "C:\\Users\\jinsu\\Desktop\\졸작\\CyberZ\\Server\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\jinsu\\Desktop\\졸작\\CyberZ\\Server\\x64\\Debug\\Protocol.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Protocol.h",
+                    "source-path": "c:\\users\\jinsu\\desktop\\졸작\\cyberz\\server\\protocol.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

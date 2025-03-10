@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="01. Timer">
+      <UniqueIdentifier>{3d1e46d6-0ec4-4d5c-92a6-4a2e43570c8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameFramework">
+      <UniqueIdentifier>{abb79112-e362-45c3-b5a5-535d84ca3d66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Mesh">
+      <UniqueIdentifier>{415035b6-0122-484c-b7a0-72a0c5351bec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object">
+      <UniqueIdentifier>{1d3a125a-4a41-45da-af64-c449e45aa7d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Player">
+      <UniqueIdentifier>{dcff62ce-4440-4e6e-9cb2-2bb741eb9742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Camera">
+      <UniqueIdentifier>{1d6ce9f1-b581-45fe-b376-0986acbb8833}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. Scene">
+      <UniqueIdentifier>{e69663b1-30f4-43b7-9ae9-87554e06b573}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Shader">
+      <UniqueIdentifier>{d0b6507b-7dd6-484e-80ba-7198f2e4f48b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. stdafx">
+      <UniqueIdentifier>{ccc6e6d0-e199-4c2f-a2f4-865cee8c3fcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10. TextureLoader">
+      <UniqueIdentifier>{ca65471a-e7df-49d2-a0ef-c2518d304039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object\05-00. Animation">
+      <UniqueIdentifier>{df94dea6-592d-44ba-9ae4-8e269ab9ca70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. Scene\09-00. PlayScene">
+      <UniqueIdentifier>{628086f9-716d-4d9b-b93f-8d43e242d8e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. GUI">
+      <UniqueIdentifier>{b1f1e808-01a9-441e-a84d-a44c42b4be0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Object\05-01. Mission">
+      <UniqueIdentifier>{7560441b-f73c-47d6-889c-efeb8841f843}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. Scene\09-01. StartScene">
+      <UniqueIdentifier>{f9fe9b8c-d431-46bd-ad28-1fd7f9bf5549}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. Scene\09-02. LoadingScene">
+      <UniqueIdentifier>{6df48786-8da1-4996-9652-aae7ef4ebfba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. GUI\11-01. UIAssets">
+      <UniqueIdentifier>{d6476df1-171d-4b99-9664-9abc847c1f80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. GUI\11-02. UIobj">
+      <UniqueIdentifier>{694f5bac-4b33-4148-9ff6-0d5731f2a32f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameFramework\03. Network">
+      <UniqueIdentifier>{90e808db-1448-471e-b839-9c7d76e62aca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CyberZ_Client.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="CyberZ_Client.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameFramework.cpp">
+      <Filter>02. GameFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="CyberZ_Client.cpp">
+      <Filter>02. GameFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="DDSTextureLoader12.cpp">
+      <Filter>10. TextureLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="WICTextureLoader12.cpp">
+      <Filter>10. TextureLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="Network.cpp">
+      <Filter>02. GameFramework\03. Network</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>00. stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>04. Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>01. Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>08. Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>07. Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>09. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>05. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>06. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CyborgPlayer.cpp">
+      <Filter>06. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>05. Object\05-00. Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayScene.cpp">
+      <Filter>09. Scene\09-00. PlayScene</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>11. GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Mission.cpp">
+      <Filter>05. Object\05-01. Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Frustum.cpp">
+      <Filter>04. Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScene.cpp">
+      <Filter>09. Scene\09-01. StartScene</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScene.cpp">
+      <Filter>09. Scene\09-02. LoadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="PrepareScene.cpp">
+      <Filter>09. Scene\09-00. PlayScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClCompile>
+    <ClCompile Include="TextInput.cpp">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClCompile>
+    <ClCompile Include="TagButton.cpp">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBar.cpp">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClCompile>
+    <ClCompile Include="Machine.cpp">
+      <Filter>11. GUI\11-02. UIobj</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameSound.cpp">
+      <Filter>02. GameFramework</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameFramework.h">
+      <Filter>02. GameFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="CyberZ_Client.h">
+      <Filter>02. GameFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="DDSTextureLoader12.h">
+      <Filter>10. TextureLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="WICTextureLoader12.h">
+      <Filter>10. TextureLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="d3dx12.h">
+      <Filter>10. TextureLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="Network.h">
+      <Filter>02. GameFramework\03. Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Protocol.h">
+      <Filter>02. GameFramework\03. Network</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>00. stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>00. stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>04. Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>01. Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>08. Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>07. Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>09. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>05. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>06. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CyborgPlayer.h">
+      <Filter>06. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>05. Object\05-00. Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayScene.h">
+      <Filter>09. Scene\09-00. PlayScene</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>11. GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Mission.h">
+      <Filter>05. Object\05-01. Mission</Filter>
+    </ClInclude>
+    <ClInclude Include="Frustum.h">
+      <Filter>04. Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScene.h">
+      <Filter>09. Scene\09-01. StartScene</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScene.h">
+      <Filter>09. Scene\09-02. LoadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="PrepareScene.h">
+      <Filter>09. Scene\09-00. PlayScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClInclude>
+    <ClInclude Include="TextInput.h">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClInclude>
+    <ClInclude Include="TagButton.h">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBar.h">
+      <Filter>11. GUI\11-01. UIAssets</Filter>
+    </ClInclude>
+    <ClInclude Include="Machine.h">
+      <Filter>11. GUI\11-02. UIobj</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameSound.h">
+      <Filter>02. GameFramework</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Light.hlsl">
+      <Filter>08. Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="Shaders.hlsl">
+      <Filter>08. Shader</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
