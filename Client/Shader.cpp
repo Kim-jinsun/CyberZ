@@ -1127,35 +1127,35 @@ XMMATRIX CreateOrthographicProjectionMatrix(XMMATRIX& xmmtxLightView, CCamera* p
 
 void CDepthRenderShader::PrepareShadowMap(BoundingOrientedBox* pBoundingBoxs, ID3D12GraphicsCommandList* pd3dCommandList, CCamera* pCamera)
 {
-	BoundingOrientedBox xmBoundingBox;
+	//BoundingOrientedBox xmBoundingBox;
 
-	for (int i = 0; i < m_nObject; i++)
-	{
-		xmBoundingBox = m_ppObjects[i]->m_xmBoundingBox;
-	}
+	//for (int i = 0; i < m_nObject; i++)
+	//{
+	//	xmBoundingBox = m_ppObjects[i]->m_xmBoundingBox;
+	//}
 
 	for (int j = 0; j < MAX_LIGHTS; j++)
 	{
 		if (m_pLights[j].m_bEnable)
 		{
-			XMFLOAT3 xmf3Position = XMFLOAT3( m_pLights[j].m_xmf3Position.x, m_pLights[j].m_xmf3Position.y, m_pLights[j].m_xmf3Position.z);
-			XMFLOAT3 xmf3Look = XMFLOAT3(0.0f, -1.0f, 0.0f);
-			XMFLOAT3 xmf3Up = XMFLOAT3(0.0f, 0.0f, 1.0f);
+			XMFLOAT3 xmf3Position = m_pLights[j].m_xmf3Position;
+			XMFLOAT3 xmf3Look = m_pLights[j].m_xmf3Direction;//XMFLOAT3(0.0f, -1.0f, 0.0f);
+			XMFLOAT3 xmf3Up = XMFLOAT3(0.0f, 1.0f, 0.0f);
 
 			 xmf3Look = m_pLights[j].m_xmf3Direction;
 
 
 
 			XMMATRIX xmmtxLightView = XMMatrixLookToLH(XMLoadFloat3(&xmf3Position), XMLoadFloat3(&xmf3Look), XMLoadFloat3(&xmf3Up));
-			float fNearPlaneDistance = 1.0f, fFarPlaneDistance = m_pLights[j].m_fRange;
+			float fNearPlaneDistance = 10.0f, fFarPlaneDistance = m_pLights[j].m_fRange;
 
 			XMMATRIX xmmtxProjection = XMMatrixIdentity();
 			if (m_pLights[j].m_nType == DIRECTIONAL_LIGHT)
 			{
-				//float fWidth = 1000, fHeight = 1000;
-				//xmmtxProjection = XMMatrixOrthographicLH(fWidth, fHeight, fNearPlaneDistance, fFarPlaneDistance);
+				float fWidth = 1000, fHeight = 1000;
+				xmmtxProjection = XMMatrixOrthographicLH(fWidth, fHeight, fNearPlaneDistance, fFarPlaneDistance);
 				
-				xmmtxProjection = CreateOrthographicProjectionMatrix(xmmtxLightView, pCamera, &xmBoundingBox);
+				//xmmtxProjection = CreateOrthographicProjectionMatrix(xmmtxLightView, pCamera, &xmBoundingBox);
 
 			}
 			else if (m_pLights[j].m_nType == SPOT_LIGHT)
